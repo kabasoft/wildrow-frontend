@@ -13,7 +13,7 @@ substitutions:
   _AR_REPO: wildrow-images
   _SERVICE_NAME: wildrow-frontend-staging
   _ENVIRONMENT: staging
-  _API_BASE_URL: https://api-staging.wildrow.co.zm/api
+  _API_BASE_URL: https://wildrow-backend-staging-qdq3ac77sa-bq.a.run.app/api
   _MIN_INSTANCES: "0"
   _MAX_INSTANCES: "10"
 
